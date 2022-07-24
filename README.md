@@ -39,4 +39,4 @@ Você pode visualizar o layout do projeto através [desse link](https://www.figm
 
 ## Autor - RocketSeat
 
-Versão atualizada - Feito por Elizabete Fabri 💜💙❤, Projeto desenvolvido com fins em estudos.
+Versão atualizada - Feito por Elizabete Fabri 💜💙❤ Projeto desenvolvido com fins em estudos.
